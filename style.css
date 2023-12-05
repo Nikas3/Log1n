@@ -32,6 +32,8 @@ img {
     border-radius: 30px;
     opaity: 0.3;
     font-size: 20px;
+    position: relative;
+    left: 80px;
 }
 
 button {
